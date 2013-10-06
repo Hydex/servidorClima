@@ -12,7 +12,7 @@ public class HelloWorld extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req, HttpServletResponse resp)
             throws ServletException, IOException {
-
+      String inputText="";
                 ////////
 
             try {
@@ -31,7 +31,7 @@ public class HelloWorld extends HttpServlet {
 
                   // Transformamos el contenido del buffer a texto
                   String inputLine;
-                  String inputText="";
+                 // String inputText="";
 
                   // Mientras haya cosas en el buffer las volcamos a las
                   // cadenas de texto 
@@ -41,8 +41,8 @@ public class HelloWorld extends HttpServlet {
                   }
 
                   // Mostramos el contenido y cerramos la entrada
-                  System.out.println("El contenido de la URL es: " + inputText);
-                  resp.getWriter().print(inputText);
+                 // System.out.println("El contenido de la URL es: " + inputText);
+                 // resp.getWriter().print(inputText);
                   in.close();
                
             } catch (MalformedURLException me) {
@@ -55,7 +55,7 @@ public class HelloWorld extends HttpServlet {
 
 
 
-        resp.getWriter().print("Ingenieria de Software 2 2 is \n UNSA!\n");
+        resp.getWriter().print("Ingenieria de Software 2 2 is \n UNSA!\n"+inputText);
     }
 
     public static void main(String[] args) throws Exception{
