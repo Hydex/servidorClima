@@ -1,0 +1,500 @@
+   85  makefile
+   86  make
+   87  make
+   88  MAKE
+   89  ls
+   90  cd /Users/Hydex/Desktop/pro/
+   91  ./ees
+   92  ./eex
+   93  ./eex -d fact.eex
+   94  ./eex -s fact.eex
+   95  ./eex -V
+   96  /opt/local/bin/httrack ; exit;
+   97  /opt/local/bin/httrack
+   98  drutil status
+   99   diskutil unmountDisk /dev/disk1
+  100  diskutil unmountDisk /dev/disk1
+  101  dd if=/dev/disk1 of=~/Desktop/BLUE.iso bs=1k
+  102  /Users/Hydex/Desktop/test/PPSSPPSDL ; exit;
+  103  /Users/Hydex/Desktop/test/PPSSPPHeadless ; exit;
+  104  cd /Users/Hydex/Documents/Disco\ Portable/24_06_12/Ed/Android/Libros/C\ TINY/loucomp/ 
+  105  ./tiny sample.tny
+  106  gcc tm.c –o tm
+  107  ./tiny sample.tny
+  108  ./tm sample.tm
+  109  sudo port install wine
+  110   cd /Users/Hydex/Documents/Universidad/FLP/GUI/Salvavidas/test/
+  111  makefile
+  112  Make
+  113  ./It
+  114  ./lt
+  115  ./lt --help
+  116  cd /Users/Hydex/Desktop/
+  117  ./keygen_osx
+  118  su
+  119  si
+  120  su
+  121  /opt/local/bin/geany ; exit;
+  122  cd /Users/Hydex/Downloads/cocos2d-iphone-1.0.1/
+  123  ./install-templates.sh
+  124  su
+  125  su
+  126  cd /Users/Hydex/Documents/Universidad/FLP/COMPILADOR_PRO\ copia/
+  127  make
+  128  make
+  129  makefile
+  130  make
+  131  cd /Users/Hydex/Documents/Universidad/FLP/COMPILADOR_PRO\ copia/
+  132  make
+  133  ./eex
+  134  ./eex fact.eex
+  135  ./eex -d fact.eex
+  136  ./eex -s fact.eex
+  137  ./eex -V fact.eex
+  138  make
+  139  ./emm
+  140  ./emm fact.eex
+  141  cd /Users/Hydex/Documents/Universidad/FLP/COMPILADOR_PRO\ copia/
+  142  make
+  143  /opt/local/bin/httrack ; exit;
+  144  /opt/local/bin/httrack ; exit;
+  145  /opt/local/bin/httrack ; exit;
+  146  cd /Users/Hydex/Documents/Universidad/FLP/COMPILADOR_PRO\ copia/
+  147  make
+  148  make
+  149  make
+  150  cd /Users/Hydex/Documents/Universidad/FLP/COMPILADOR_PRO\ copia/
+  151  make
+  152  make
+  153  ./flp fact.flp
+  154  ./flp fact.flp
+  155  make
+  156  ./flp fact.flp
+  157  make
+  158  make
+  159  ./flp fact.flp
+  160  ./flp fact.flp
+  161  ./flp fact.flp
+  162  ./flp fact.flp
+  163  ./flp fact.flp
+  164  make
+  165  ./flp fact.flp
+  166  ./flp fact.flp
+  167  ./flp fact.flp
+  168  cd /Users/Hydex/Documents/Universidad/FLP/MiniProyecto
+  169  make
+  170  ./flp fact.flp
+  171  ./flp fact.flp
+  172  ./flp fact.flp
+  173  ./flp fact.flp
+  174  ./flp fact.flp
+  175  cd /Users/Hydex/Desktop/C\ TINY/loucomp/
+  176  make
+  177  ./tiny sample.tny
+  178  gcc tm.c –o tm
+  179  gcc tm.c –o tm.
+  180  gcc tm.c –o tm
+  181  ls
+  182  gcc tm.c ‐o tm
+  183  gcc
+  184  gcc -v
+  185  gcc tm.c ‐o tm
+  186  gcc tm.c tm
+  187  gcc tm.c tm
+  188  gcc tm.c -o tm
+  189  ./tm sample.tm
+  190  ./tm sample.tm
+  191  ./tm sample.tm
+  192  cd /Users/Hydex/Qt5.0.2; /Users/Hydex/Qt5.0.2/Qt\ Creator.app/Contents/MacOS/../Resources/qtcreator_process_stub run /var/folders/dz/604zrrjs19902zmskcmpg62h0000gn/T/QtCreator.wX3166/stub-socket Press\ \<RETURN\>\ to\ close\ this\ window... /Users/Hydex/Documents/QT/Datos/build-c11-Desktop_Qt_5_0_2_clang_64bit-Debug /var/folders/dz/604zrrjs19902zmskcmpg62h0000gn/T/QtCreator.EJ3166 /Users/Hydex/Documents/QT/Datos/build-c11-Desktop_Qt_5_0_2_clang_64bit-Debug/c11
+  193  cd /Users/Hydex/Qt5.0.2; /Users/Hydex/Qt5.0.2/Qt\ Creator.app/Contents/MacOS/../Resources/qtcreator_process_stub run /var/folders/dz/604zrrjs19902zmskcmpg62h0000gn/T/QtCreator.Le3166/stub-socket Press\ \<RETURN\>\ to\ close\ this\ window... /Users/Hydex/Documents/QT/Datos/build-c11-Desktop_Qt_5_0_2_clang_64bit-Debug /var/folders/dz/604zrrjs19902zmskcmpg62h0000gn/T/QtCreator.dx3166 /Users/Hydex/Documents/QT/Datos/build-c11-Desktop_Qt_5_0_2_clang_64bit-Debug/c11
+  194  cd /Users/Hydex/Qt5.0.2; /Users/Hydex/Qt5.0.2/Qt\ Creator.app/Contents/MacOS/../Resources/qtcreator_process_stub run /var/folders/dz/604zrrjs19902zmskcmpg62h0000gn/T/QtCreator.oy3166/stub-socket Press\ \<RETURN\>\ to\ close\ this\ window... /Users/Hydex/Documents/QT/Datos/build-c11-Desktop_Qt_5_0_2_clang_64bit-Debug /var/folders/dz/604zrrjs19902zmskcmpg62h0000gn/T/QtCreator.qh3166 /Users/Hydex/Documents/QT/Datos/build-c11-Desktop_Qt_5_0_2_clang_64bit-Debug/c11
+  195  /Volumes/en-US_L1/data/00.rsd ; exit;
+  196  cd /Users/Hydex/Qt5.1.0; /Users/Hydex/Qt5.1.0/Qt\ Creator.app/Contents/MacOS/../Resources/qtcreator_process_stub run /var/folders/dz/604zrrjs19902zmskcmpg62h0000gn/T/QtCreator.RFB751/stub-socket Press\ \<RETURN\>\ to\ close\ this\ window... /Users/Hydex/Documents/QT/Datos/build-Circular-Desktop_Qt_5_1_0_clang_64bit-Debug /var/folders/dz/604zrrjs19902zmskcmpg62h0000gn/T/QtCreator.CVM751 /Users/Hydex/Documents/QT/Datos/build-Circular-Desktop_Qt_5_1_0_clang_64bit-Debug/Circular
+  197  cd /Users/Hydex/Qt5.1.0; /Users/Hydex/Qt5.1.0/Qt\ Creator.app/Contents/MacOS/../Resources/qtcreator_process_stub run /var/folders/dz/604zrrjs19902zmskcmpg62h0000gn/T/QtCreator.FKt751/stub-socket Press\ \<RETURN\>\ to\ close\ this\ window... /Users/Hydex/Documents/QT/Datos/build-Circular-Desktop_Qt_5_1_0_clang_64bit-Debug /var/folders/dz/604zrrjs19902zmskcmpg62h0000gn/T/QtCreator.EXe751 /Users/Hydex/Documents/QT/Datos/build-Circular-Desktop_Qt_5_1_0_clang_64bit-Debug/Circular
+  198  cd /Users/Hydex/Qt5.1.0; /Users/Hydex/Qt5.1.0/Qt\ Creator.app/Contents/MacOS/../Resources/qtcreator_process_stub run /var/folders/dz/604zrrjs19902zmskcmpg62h0000gn/T/QtCreator.gPS751/stub-socket Press\ \<RETURN\>\ to\ close\ this\ window... /Users/Hydex/Documents/QT/Datos/build-Circular-Desktop_Qt_5_1_0_clang_64bit-Debug /var/folders/dz/604zrrjs19902zmskcmpg62h0000gn/T/QtCreator.aRo751 /Users/Hydex/Documents/QT/Datos/build-Circular-Desktop_Qt_5_1_0_clang_64bit-Debug/Circular
+  199  cd /Users/Hydex/Desktop/C\ TINY/copia/front/
+  200  cd /Users/Hydex/Desktop/C\ TINY/copia/loucomp 
+  201  make
+  202  make
+  203  gcc tm.c -o tm
+  204  ./tm sample.tm
+  205  ./tm sample.tm
+  206  cd /Users/Hydex/Documents/Universidad/FLP/MiniProyecto
+  207  make
+  208  make
+  209  make
+  210  make
+  211  make
+  212  make
+  213  ./flp fact.flp
+  214  ./flp fact2.flp
+  215  clear
+  216  ./flp fact2.flp
+  217  ./flp fact2.flp
+  218  clear
+  219  make
+  220  ./flp fact2.fl
+  221  ./flp fact2.flp
+  222  make
+  223  ./flp fact2.flp
+  224  ./flp fact2.flp
+  225  make
+  226  make
+  227  make
+  228  make
+  229  make
+  230  make
+  231  make
+  232  make
+  233  make
+  234  ./flp flp2.flp
+  235  ./flp fact2.flp
+  236  ./flp fact2.flp
+  237  make
+  238  ./flp fact2.flp
+  239  make
+  240  ./flp fact2.flp
+  241  ./flp fact2.flp
+  242  make
+  243  ./flp fact2.flp
+  244  make
+  245  ./flp fact2.flp
+  246  make
+  247  make
+  248  make
+  249  ./flp fact2.flp
+  250  ./flp fact2.flp
+  251  make
+  252  ./flp fact2.flp
+  253  ./flp fact2.flp
+  254  ./flp fact2.flp
+  255  make
+  256  make
+  257  ./flp fact2.flp
+  258  ./flp fact2.flp
+  259  make
+  260  ./flp fact2.flp
+  261  make
+  262  make
+  263  make
+  264  ./flp fact2.flp
+  265  ./flp fact2.flp
+  266  make
+  267  ./flp fact2.flp
+  268  ./flp fact2.flp
+  269  ./flp fact2.flp
+  270  cd /Users/Hydex/Desktop/Proyecto\ FLP/
+  271  make
+  272  make
+  273  make
+  274  make
+  275  make
+  276  make
+  277  make
+  278  make
+  279  make
+  280  ./flp fact2.flp
+  281  make
+  282  make
+  283  make
+  284  make
+  285  ./flp fact2.flp
+  286  make
+  287  ./flp fact2.flp
+  288  make
+  289  ./flp fact2.flp
+  290  make
+  291  ./flp fact2.flp
+  292  make
+  293  ./flp fact2.flp
+  294  cd /Users/Hydex/Desktop/Proyecto\ FLP/flp 
+  295  cd /Users/Hydex/Desktop/Proyecto\ FLP/
+  296  make
+  297  ./flp fact2.flp
+  298  6
+  299  ./flp fact2.flp
+  300  make
+  301  ./flp fact2.flp
+  302  ./flp fact2.flp
+  303  make
+  304  ./flp fact2.flp
+  305  make
+  306  make
+  307  make
+  308  ./flp fact2.flp
+  309  cd /Users/Hydex/Documents/Universidad/FLP/MiniProyecto\ copia/
+  310  make
+  311  ./flp fact.flp
+  312  cd
+  313  cd /Users/Hydex/Desktop/Proyecto\ FLP/
+  314  make
+  315  ./flp fact2.flp
+  316  cd /Users/Hydex/Desktop/Proyecto\ FLP/
+  317  make
+  318  ./flp fact2.flp
+  319  make
+  320  make -version
+  321  make
+  322  ./flp fact2.flp
+  323  ./flp fact2.flp
+  324  ./flp fact2.flp
+  325  cd /Users/Hydex/Desktop/Proyecto\ FLP/Presentable2 
+  326  ./flp fact.flp
+  327  ./flp -d 
+  328  ./flp -d fact.flp
+  329  ./flp -s fact.flp
+  330  ./flp -d fact.flp
+  331  ./flp -d fact.flp
+  332  ./flp fact.flp
+  333  cd /Users/Hydex/Desktop/Proyecto\ FLP 
+  334  ./flp fact2.flp
+  335  ./flp fact2.flp
+  336  ./flp fact2.flp
+  337  /Users/Hydex/Desktop/sqlite3_analyzer ; exit;
+  338  /Volumes/PHP\ 5/archivos_base_aplicaciones_web_php/archivos_base_aplicaciones_web_php/blogphp3/database/blogs.db ; exit;
+  339  cd /Users/Hydex/Desktop/tutoDoxy/ 
+  340  dogygen -g
+  341  doxygen -g
+  342  doxygen -g
+  343  doxygen -v
+  344  doxygen
+  345  doxygen
+  346  cd /Users/Hydex/Desktop/Proyecto\ FLP/Presentable2/
+  347  make
+  348  make
+  349  ./flp fact.flp
+  350   cd /Users/Hydex/Documents/Disco\ Portable/24_06_12/Ed/Android/Libros/cppreference-doc-20130729/
+  351   cd /Users/Hydex/Documents/Disco\ Portable/24_06_12/Ed/Android/Libros/
+  352   cd /Users/Hydex/Documents/Disco
+  353  cd /Users/Hydex/Desktop/Proyecto\ FLP/Presentable2/
+  354  cd /Users/Hydex/Documents/Disco
+  355  cd /Users/Hydex/Documents/Disco\ Portable/24_06_12/Ed/Android/Libros/
+  356  make
+  357  su
+  358  su
+  359  su
+  360  au
+  361  su
+  362  su
+  363  /opt/local/bin/geany ; exit;
+  364  geany --vte-lib=/opt/local/lib/libvte.dylib
+  365  sudo port install geany
+  366  geany --vte-lib=/opt/local/lib/libvte.dylib
+  367  /opt/local/bin/geany ; exit;
+  368  su
+  369  /opt/local/bin/httrack ; exit;
+  370  clear; cd "/Users/Hydex/Documents/Universidad/BD2/Investigar Conexiones/Codigo/FacturaMySql/FacturaMySql/bin/Debug"; "/Library/Frameworks/Mono.framework/Versions/2.10.11/bin/mono"  --debug --debugger-agent=transport=dt_socket,address=127.0.0.1:52046 "/Users/Hydex/Documents/Universidad/BD2/Investigar Conexiones/Codigo/FacturaMySql/FacturaMySql/bin/Debug/FacturaMySql.exe" ; echo; read -p 'Press any key to continue...' -n1; exit
+  371  clear; cd "/Users/Hydex/Documents/Universidad/BD2/Investigar Conexiones/Codigo/FacturaMySql/FacturaMySql/bin/Release"; "/Library/Frameworks/Mono.framework/Versions/2.10.11/bin/mono"  --debug --debugger-agent=transport=dt_socket,address=127.0.0.1:52059 "/Users/Hydex/Documents/Universidad/BD2/Investigar Conexiones/Codigo/FacturaMySql/FacturaMySql/bin/Release/FacturaMySql.exe" ; echo; read -p 'Press any key to continue...' -n1; exit
+  372  clear; cd "/Users/Hydex/Documents/Universidad/BD2/Investigar Conexiones/Codigo/FacturaMySql/FacturaMySql/bin/Debug"; "/Library/Frameworks/Mono.framework/Versions/2.10.11/bin/mono"  --debug --debugger-agent=transport=dt_socket,address=127.0.0.1:52055 "/Users/Hydex/Documents/Universidad/BD2/Investigar Conexiones/Codigo/FacturaMySql/FacturaMySql/bin/Debug/FacturaMySql.exe" ; echo; read -p 'Press any key to continue...' -n1; exit
+  373  clear; cd "/Users/Hydex/Documents/Universidad/BD2/Investigar Conexiones/Codigo/FacturaMySql/FacturaMySql/bin/Release"; "/Library/Frameworks/Mono.framework/Versions/3.2.0/bin/mono"  --debug --debugger-agent=transport=dt_socket,address=127.0.0.1:52360 "/Users/Hydex/Documents/Universidad/BD2/Investigar Conexiones/Codigo/FacturaMySql/FacturaMySql/bin/Release/FacturaMySql.exe" ; echo; read -p 'Press any key to continue...' -n1; exit
+  374  clear; cd "/Users/Hydex/Documents/Universidad/BD2/Investigar Conexiones/Codigo/FacturaMySql/FacturaMySql/bin/Release"; "/Library/Frameworks/Mono.framework/Versions/3.2.0/bin/mono"  --debug --debugger-agent=transport=dt_socket,address=127.0.0.1:52363 "/Users/Hydex/Documents/Universidad/BD2/Investigar Conexiones/Codigo/FacturaMySql/FacturaMySql/bin/Release/FacturaMySql.exe" ; echo; read -p 'Press any key to continue...' -n1; exit
+  375  /opt/local/bin/httrack ; exit;
+  376  httrack
+  377  /opt/local/bin/httrack ; exit;
+  378  sudo brew install otx
+  379  /Users/Hydex/Desktop/class-dump ; exit;
+  380  ls
+  381  cd Applications
+  382  cd EditRocket
+  383  cd EditRocket/Contents/MacOS
+  384  cd /Applications/EditRocket.app/Contents/MacOS 
+  385  class-dump editrocket
+  386  class-dump editrocket
+  387  su
+  388  su
+  389  sudo port install geany
+  390  geany --vte-lib=/opt/local/lib/libvte.dylib
+  391  geany
+  392  /Users/Hydex/Desktop/class-dump /Users/Hydex/Desktop/InstaSign\ Apps/Kingdom\ Rush\ Frontiers\ \(v1.2\ v3\ LP\ os43\)-Locophone-ICPDA.rc30e7\ copia/assets/Frontiers 
+  393  ls
+  394  cd Documents
+  395  ls
+  396  cd /Users/Hydex/Documents/KR 
+  397  /Users/Hydex/Desktop/class-dump Frontiers
+  398  /Users/Hydex/Desktop/class-dump Frontiers>kr.h
+  399  /opt/local/bin/httrack ; exit;
+  400  cd /Applications/Unity/Unity.app/Contents/MacOS/Unity 
+  401  cd /Applications/Unity/Unity.app/Contents/MacOS/
+  402  chmod +x Unity
+  403  /Users/Hydex/Downloads/httrack-3.45.3_0.darwin_12.x86_64/opt/local/bin/httrack ; exit;
+  404  /opt/local/bin/httrack ; exit;
+  405  cd /Users/Hydex/Downloads/SFML-2.1-osx-clang-universal/
+  406  ./install.sh
+  407  su
+  408  heroku login
+  409  ssh
+  410  target
+  411  .gitignore
+  412  mvn package
+  413  cd /Users/Hydex/Downloads/devcenter-java-master 
+  414  mvn package
+  415  export PORT=5000
+  416  java -cp target/classes:"target/dependency/*" HelloWorld
+  417  mvn package
+  418  export PORT=5000
+  419  java -cp target/classes:"target/dependency/*" HelloWorld
+  420  history
+  421  history>terminal.txt
+  422  java -cp target/classes:"target/dependency/*" HelloWorld
+  423  git init
+  424  git add
+  425  git add .
+  426  git commit -m "init"
+  427  history>terminal2.txt
+  428  heroku create
+  429  heroku create appJava
+  430  git push heroku master
+  431  heroku create
+  432  git push heroku master
+  433  history>terminal3.txt
+  434  /opt/local/bin/geany ; exit;
+  435  sudo port install genay
+  436  sudo port install geany
+  437  sudo port install gtk2-aurora 
+  438  geany --vte-lib=/opt/local/lib/libvte.dylib
+  439  geany
+  440  cd /Users/Hydex/Downloads/devcenter-java-master 
+  441  mvn package
+  442  export PORT=5000
+  443  java -cp target/classes:"target/dependency/*" HelloWorld
+  444  mvn package
+  445  export PORT=5000
+  446  java -cp target/classes:"target/dependency/*" HelloWorld
+  447  mvn package
+  448  export PORT=5000
+  449  java -cp target/classes:"target/dependency/*" HelloWorld
+  450  heroku create
+  451  heroku login
+  452  heroku create
+  453  mvn package
+  454  export PORT=5000
+  455  java -cp target/classes:"target/dependency/*" HelloWorld
+  456  /Volumes/MacMAME/chdman ; exit;
+  457  /Volumes/MacMAME/chdman ; exit;
+  458  cd /Users/Hydex/Desktop/psp/
+  459  chmod 777 epsxe
+  460  ./epxse
+  461  cd /Users/Hydex/Desktop/psp/
+  462  ./epsxe
+  463  shutdown -t now
+  464  su
+  465  git
+  466  git clone git://gitorious.org/lemonpos/lemonpos.git
+  467  cd lemonpos/
+  468  ls
+  469  cd
+  470  ls
+  471  cd/Users/Hydex/Documents/Universidad/DS/lemonpos
+  472  ls
+  473  cd /Users/Hydex/Documents/Universidad/DS/lemonpos
+  474  git fetch origin persa:persa
+  475  git pull origin persa
+  476  mkdir build
+  477  cd build
+  478      cmake .. -DCMAKE_INSTALL_PREFIX=`kde4-config --prefix` 
+  479  make
+  480  sudo make install
+  481  /opt/local/bin/httrack ; exit;
+  482  /Users/Hydex/Desktop/Nueva\ carpeta\ con\ ítems/C-Defense\ 1.9.0/Payload/CartoonDefence.app/CartoonDefence ; exit;
+  483  cd /Users/Hydex/Desktop/Java/
+  484  javac LeerURL.java
+  485  java LeerURL
+  486  heroku login
+  487  ssh
+  488  cd ~/.ssh
+  489  ls
+  490  ssh-keygen -t rsa -C "ed.cornejo89.com"
+  491  ssh-add id_rsa
+  492  ssh-keygen -t rsa -C "ed.cornejo89.com"
+  493  ssh-keygen -t rsa -C "ed.cornejo89.com"
+  494  pbcopy < ~/.ssh/id_rsa.pub
+  495  ssh -T git@github.com
+  496  git init
+  497  git add .
+  498  git add
+  499  git add .
+  500  ld
+  501  ls
+  502  cd /Users/Hydex/Downloads/devcenter-java-master
+  503  git init
+  504  git add .
+  505  git commit -m "init"
+  506  heroku create isw2unsa2013
+  507  git push heroku master
+  508  chmod 0644 /Users/Hydex/.ssh/id_dsa
+  509  git push heroku master
+  510  chmod 7777 /Users/Hydex/.ssh/id_dsa
+  511  git push heroku master
+  512  chmod 600 /Users/Hydex/.ssh/id_dsa
+  513  chmod 600 /Users/Hydex/.ssh/id_dsa.pub
+  514  chmod 644 /Users/Hydex/.ssh/known_hosts
+  515  chmod 755 /Users/Hydex/.ssh
+  516  git push heroku master
+  517  ssh -vT git@github.com
+  518  ssh-add -l
+  519  ssh -vT git@heroku.com
+  520  git config --global user.name "Edwin Cornejo"
+  521  git config --global user.email ed.cornejo89@gmail.com
+  522  cd
+  523  ls
+  524  cd Documents
+  525  ls
+  526  mkdir Git
+  527  cd Git
+  528  git init
+  529  touch README
+  530  git add README
+  531  git commit -m 'first commint'
+  532  git remote add origin git@heroku.com:is2unsa.git
+  533  git push origin master
+  534  git remote add origin git@heroku.com:is2unsa.git
+  535  git push origin master
+  536  cd ~/.ssh
+  537  ls
+  538  pbcopy < ~/.ssh/id_rsa.pub
+  539  git push origin master
+  540  cd 
+  541  ls
+  542  cd Documents
+  543  cd Git
+  544  git init
+  545  git commit -m "first commit"
+  546  git remote add origin git@heroku.com:is2unsa.git
+  547  git push origin master
+  548  git push origin master
+  549  git push
+  550  git init
+  551  git remote add origin git@github.com:Hydex/game.git
+  552  git init
+  553  git remote add origin git@github.com:Hydex/game.git
+  554  git remote add terminal.txt  git@github.com:Hydex/game.git
+  555  git remote add inicio  git@github.com:Hydex/game.git
+  556  git commit -m "first commit"
+  557  git push origin master
+  558  git push --help
+  559  git push --all
+  560  git init
+  561  git --version
+  562  ssh-keygen
+  563  ssh-keygen
+  564  cat ~/.ssh/id_rsa.pub
+  565  ls
+  566* git co
+  567  git add .
+  568  git remote add origin  git@github.com:Hydex/game.git
+  569  git remote rm origin
+  570  git remote add origin  git@github.com:Hydex/game.git
+  571  git remote push -u origin master
+  572  git commit -m 'mi primer comentario'
+  573  git remote push -u origin master
+  574  git remote push origin master
+  575  git remote push -u origin master
+  576  git push --all
+  577  git pull
+  578  git push --all
+  579  git push -u origin master
+  580  git push -f origin master
+  581  git remote add origin2  git@heroku.com:isw2unsa2013.git
+  582  git push -f origin master
+  583  git push -f origin2 master
+  584  history > terminalHeroku.txt
