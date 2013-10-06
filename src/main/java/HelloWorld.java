@@ -17,7 +17,7 @@ public class HelloWorld extends HttpServlet {
 
             try {
                   // Indicamos la URL donde nos conectamos
-                  URL url = new URL("http://www.lineadecodigo.com");
+                  URL url = new URL("http://weather.yahooapis.com/forecastrss?w=418442");
 
                   // Buffer con los datos recibidos
                   BufferedReader in = null;
